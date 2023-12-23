@@ -15,22 +15,6 @@ The Jupyter Notebook in this repository covers a series of diverse programming c
 - Functional Programming with Lambda Functions
 - Algorithmic Challenges and Logical Problem Solving
 
-## Getting Started
-
-### Dependencies
-
-- Python 3.x
-- Jupyter Notebook
-
-### Setup and Execution
-
-1. Clone the repository to your local machine.
-    ```bash
-    git clone https://github.com/your-github-username/your-repository-name.git
-    ```
-2. Navigate to the cloned directory.
-3. Open the Jupyter Notebook in a Jupyter environment to view and execute the code.
-
 ## Features and Highlights
 
 - Implementation of basic to intermediate algorithms and data structures.
@@ -41,17 +25,9 @@ The Jupyter Notebook in this repository covers a series of diverse programming c
 
 ## Author
 
-[Your Name](https://github.com/YourGitHubProfile)
+[Pankaj Mani Sahu](https://github.com/pankajmanisahu)
 
 ## Acknowledgments
 
 - Thanks to course instructors and mentors for their guidance.
 - External resources and documentation that provided insights and code snippets.
-
-## License
-
-This project is open-sourced under the [MIT license](LICENSE).
-
-## How to Contribute
-
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](https://github.com/your-github-username/your-repository-name/issues) if you want to contribute.
